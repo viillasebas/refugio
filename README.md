@@ -8,23 +8,23 @@ Desarrollar un sistema de información centralizado para un refugio de animales 
 
 docs/
 
-  ├── manual-usuario.md
+      ├── manual-usuario.md
 
-  ├── soporte-postproyecto.md
+      ├── soporte-postproyecto.md
 
-  └── tecnologias-utilizadas.md
+      └── tecnologias-utilizadas.md
 
 testing/
 
-  ├── casos-de-prueba.xlsx
+      ├── casos-de-prueba.xlsx
 
-  └── evidencias-pruebas.md
+      └── evidencias-pruebas.md
 
 src/
 
-  ├── frontend/
+      ├── frontend/
 
-  └── backend/
+      └── backend/
   
 
 ## Tecnologías de Desarrollo
