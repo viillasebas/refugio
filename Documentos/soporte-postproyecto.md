@@ -106,11 +106,11 @@ app.use(helmet());
 ## Presupuesto
 | Concepto | Costo |
 |---|---:|
-| Equipo técnico | $180K |
-| Infraestructura | $24K |
-| Herramientas | $20K |
-| Capacitación | $5K |
-| Total | $229K |
+| Equipo técnico | COP 180.000.000 |
+| Infraestructura | COP 24.000.000 |
+| Herramientas | COP 20.000.000 |
+| Capacitación | COP 5.000.000 |
+| Total | COP 229.000.000 |
 
 ---
 
