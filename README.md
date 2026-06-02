@@ -7,15 +7,25 @@ Desarrollar un sistema de información centralizado para un refugio de animales 
 ## Estructura del Repositorio
 
 docs/
+
   ├── manual-usuario.md
+
   ├── soporte-postproyecto.md
+
   └── tecnologias-utilizadas.md
+
 testing/
+
   ├── casos-de-prueba.xlsx
+
   └── evidencias-pruebas.md
+
 src/
+
   ├── frontend/
+
   └── backend/
+  
 
 ## Tecnologías de Desarrollo
 
