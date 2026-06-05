@@ -1,4 +1,4 @@
-# Refugio de Animales (Projecto Academico)
+# Refugio de Animales (Proyecto Académico)
 
 ## Objetivo
 
